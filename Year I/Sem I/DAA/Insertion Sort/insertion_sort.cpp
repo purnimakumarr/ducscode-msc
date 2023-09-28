@@ -69,9 +69,6 @@ int main() {
   int comp, comparisons[10], totalComp, min, max;
   float average, sum = 0;
 
-  /* For input size 10 */
-
-  // Best Case
   cout<<"FOR INPUT SIZE "<<SIZE<<endl;
   cout<<"==================\n";
 
