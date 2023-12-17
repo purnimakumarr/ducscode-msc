@@ -1,0 +1,85 @@
+News Articles published by The Times India summarized as on 17.12.2023
+
+Article 1 - 'This is a new beginning': AI translation tool Bhashini used during PM Modi's speech in Varanasi
+
+Extractive Text Summarization
+Input text:  NEW DELHI: A real-time Artificial Intelligence-based translation tool was used during Prime Minister Narendra Modi's speech at Kashi Tamil Sangamam in Varanasi on Sunday. This was done through ‘Bhashini’ for those in the audience who understood Tamil. "Today, use of new technology has taken place here through Artificial Intelligence. This is a new beginning and hopefully, it makes it easier for me to reach you," PM Modi said during his address. The Prime Minister is in Varanasi to inaugurate Kashi Tamil Sangamam 2.0 at Namo Ghat. Kashi Tamil Sangamam 2023 is an initiative by the Government of India, part of Azadi Ka Amrit Mahotsav to uphold the Spirit of Ek Bharat Shreshta Bharat. The second edition of the Kashi Tamil Sangamam (KTS) is being held from December 17-30, 2023. The event is part of the government's Ek Bharat Shreshtha Bharat Yuva Sangam programme. What is Bhashini? 'Bhashini' is an AI-led language translation system that enables people to speak in their own language while talking to speakers of other Indian languages. Its aim is to facilitate convenient internet and digital service accessibility in Indian languages, incorporating voice-based access, and fostering the generation of content in these languages. This online platform also has a separate ‘Bhasadaan’ section which allows individuals to contribute to multiple crowdsourcing initiatives, and it is also accessible via respective Android and iOS apps.
+Input number of sentences in summary:  5
+
+Summary sentence score for the top 5 sentences: 
+                                            Sentence  Score
+0  NEW DELHI: A real-time Artificial Intelligence...   8.25
+1  Kashi Tamil Sangamam 2023 is an initiative by ...   7.75
+2  The Prime Minister is in Varanasi to inaugurat...   4.75
+3  The second edition of the Kashi Tamil Sangamam...   4.75
+4  What is Bhashini? 'Bhashini' is an AI-led lang...   4.00
+
+Summary: NEW DELHI: A real-time Artificial Intelligence-based translation tool was used during Prime Minister Narendra Modi's speech at Kashi Tamil Sangamam in Varanasi on Sunday. Kashi Tamil Sangamam 2023 is an initiative by the Government of India, part of Azadi Ka Amrit Mahotsav to uphold the Spirit of Ek Bharat Shreshta Bharat. The Prime Minister is in Varanasi to inaugurate Kashi Tamil Sangamam 2. The second edition of the Kashi Tamil Sangamam (KTS) is being held from December 17-30, 2023. What is Bhashini? 'Bhashini' is an AI-led language translation system that enables people to speak in their own language while talking to speakers of other Indian languages.
+
+
+Article 2 - Like an old club, set members don't want to let go of the grip: Jaishankar targets UNSC
+
+Extractive Text Summarization
+Input text:  NEW DELHI: External affairs minister S Jaishankar on Sunday took a jibe at the United Nations Security Council saying that it is like an "old club" where member nations are unwilling to admit new members. Addressing an event at the Rotary Institute 2023 in Bengaluru, Jaishankar remarked that the "club" members prefer not to have their methods scrutinized. "Security Council is like an old club, where there are set members who don't want to let go of the grip. They want to keep control over the club. Not very keen to admit more members, not keen to have their practices questioned," Jaishankar said. The Union minister highlighted that the UN's diminishing effectiveness due to the absence of reforms is a concerning issue. "In a way, it's a human failing. But I think today it is harming the world. It is harming the world because, on key issues confronting the world, the UN is getting less and less effective," Jaishankar said. "And I can also tell you the global sentiment. I mean, today, if you ask 200 countries in the world, do you want reform or don't you want reform? A very large number of countries would say, yes, we want reform," he added. Earlier this year, Jaishankar had said that the United Nations no longer reflected the reality of the world and was in need of reforms. "It is really a bit like a company. It is like the shareholders have changed, but the management has not. So, there are the new shareholders who want fair management, but the old guys don't want to let go. This issue is not going to be easily resolved, but with each passing day, the pressure is building," the minister had said, while speaking at the 'G20 Festival of Thinkers Summit' organized by the Symbiosis International (Deemed University). During his concluding address at the G20 Leaders Summit in the national capital, PM Modi reiterated his stance of making global systems in accordance with the "realities of the present" and took the example of the United Nations Security Council. "When the UN was established, the world at that time was completely different from today. At that time there were 51 founding members in the UN. Today the number of countries included in the UN is around 200. Despite this, the permanent members in UNSC are still the same," the Prime Minister had underlined.
+Input number of sentences in summary:  6
+
+Summary sentence score for the top 6 sentences: 
+                                            Sentence     Score
+0  NEW DELHI: External affairs minister S Jaishan...  7.571429
+1  I mean, today, if you ask 200 countries in the...  6.285714
+2  So, there are the new shareholders who want fa...  4.285714
+3  "Security Council is like an old club, where t...  3.857143
+4  Earlier this year, Jaishankar had said that th...  3.285714
+5  This issue is not going to be easily resolved,...  3.142857
+
+Summary: NEW DELHI: External affairs minister S Jaishankar on Sunday took a jibe at the United Nations Security Council saying that it is like an "old club" where member nations are unwilling to admit new members. I mean, today, if you ask 200 countries in the world, do you want reform or don't you want reform? A very large number of countries would say, yes, we want reform," he added. So, there are the new shareholders who want fair management, but the old guys don't want to let go. "Security Council is like an old club, where there are set members who don't want to let go of the grip. Earlier this year, Jaishankar had said that the United Nations no longer reflected the reality of the world and was in need of reforms. This issue is not going to be easily resolved, but with each passing day, the pressure is building," the minister had said, while speaking at the 'G20 Festival of Thinkers Summit' organized by the Symbiosis International (Deemed University).
+
+
+Article 3 - Government has shut down 55 lakh phone numbers, here's why
+
+Extractive Text Summarization
+Input text:  In a major crackdown on fraudulent mobile phone connections, the Indian government has disconnected a staggering 5.5 million phone numbers obtained using fake documents. This comes as a result of a nationwide verification campaign launched through the "Sanchar Saathi" portal, aimed at curbing cybercrime and financial fraud facilitated through illegal SIM cards. Speaking in the parliament, Minister of Communications Devusinh Chauhan announced the initiative's success, highlighting that 55.52 lakh (5.5 million) connections were deactivated after verification revealed forged identification documents. Additionally, 1.32 lakh handsets were blocked for involvement in cybercrime and financial fraud, while 13.42 lakh suspicious connections reported by citizens were also disconnected. The minister, according to a report by The Economic Times, said that the government was stepping up efforts to keep consumers informed and aware about the mobile connections they have under their names. The government has launched consumer awareness campaigns and raised concerns about cyber frauds. The rampant use of fake documents to obtain SIM cards creates fertile ground for criminal activities, including financial scams, phishing calls, and identity theft. These illegal connections often serve as tools for anonymity, making it difficult for law enforcement to track down perpetrators. What is the Sanchar Saathi portal? The "Sanchar Saathi" portal, launched in July 2023, empowered citizens to report suspicious mobile activity.The portal also allows users to verify the authenticity of phone numbers, offering them greater control over their privacy and security. Sanchar Saathi portal is initiative of Department of Telecommunications to empower mobile subscribers, strengthen their security and increase awareness about citizen centric initiatives of the Government. Sanchar Saathi allows users to know the mobile connections issued in their name, get disconnected the connections not required by them, block/trace lost mobile phones and check genuineness of devices while buying a new/old mobile phone.
+Input number of sentences in summary:  6
+
+Summary sentence score for the top 6 sentences: 
+                                            Sentence     Score
+0  Sanchar Saathi allows users to know the mobile...  8.714286
+1  What is the Sanchar Saathi portal? The "Sancha...  4.571429
+2  Sanchar Saathi portal is initiative of Departm...  4.428571
+3  This comes as a result of a nationwide verific...  4.142857
+4  The minister, according to a report by The Eco...  4.000000
+5  The rampant use of fake documents to obtain SI...  3.142857
+
+Summary: Sanchar Saathi allows users to know the mobile connections issued in their name, get disconnected the connections not required by them, block/trace lost mobile phones and check genuineness of devices while buying a new/old mobile phone. What is the Sanchar Saathi portal? The "Sanchar Saathi" portal, launched in July 2023, empowered citizens to report suspicious mobile activity. Sanchar Saathi portal is initiative of Department of Telecommunications to empower mobile subscribers, strengthen their security and increase awareness about citizen centric initiatives of the Government. This comes as a result of a nationwide verification campaign launched through the "Sanchar Saathi" portal, aimed at curbing cybercrime and financial fraud facilitated through illegal SIM cards. The minister, according to a report by The Economic Times, said that the government was stepping up efforts to keep consumers informed and aware about the mobile connections they have under their names. The rampant use of fake documents to obtain SIM cards creates fertile ground for criminal activities, including financial scams, phishing calls, and identity theft.
+
+
+Article 4 - Emir Sheikh Nawaf laid to rest in Kuwait
+
+Extractive Text Summarization
+Input text:  KUWAIT: Kuwait's Emir Sheikh Nawaf al-Ahmad al-Sabah, whose six-decade career in public service primarily focused on domestic issues, was buried on Sunday following a prayer service. His successor, Sheikh Meshal al-Ahmad al-Sabah, 83, was seen shedding a tear at the prayer service attended by members of the ruling Al Sabah family and speaker of Kuwait's parliament. Sheikh Nawaf's three-year reign as emir, relatively short by Kuwait standards, was marred by ill health. His predecessor and brother, Sheikh Sabah al-Ahmad al-Sabah, reigned for 14 years and shaped the Gulf state's foreign policy for two generations. Sheikh Nawaf, whose casket was draped in Kuwait's flag, was buried Sulaibikhat cemetery alongside his kin, after prayers at Bilal bin Rabah mosque. Dignitaries from around the world paid respects to Sheikh Nawaf, whose six decades in public service included minister of defence, interior, labour and deputy chief of the national guard.
+Input number of sentences in summary:  3
+
+Summary sentence score for the top 3 sentences: 
+                                            Sentence     Score
+0  KUWAIT: Kuwait's Emir Sheikh Nawaf al-Ahmad al...  6.333333
+1  His successor, Sheikh Meshal al-Ahmad al-Sabah...  5.666667
+2  Dignitaries from around the world paid respect...  4.333333
+
+Summary: KUWAIT: Kuwait's Emir Sheikh Nawaf al-Ahmad al-Sabah, whose six-decade career in public service primarily focused on domestic issues, was buried on Sunday following a prayer service. His successor, Sheikh Meshal al-Ahmad al-Sabah, 83, was seen shedding a tear at the prayer service attended by members of the ruling Al Sabah family and speaker of Kuwait's parliament. Dignitaries from around the world paid respects to Sheikh Nawaf, whose six decades in public service included minister of defence, interior, labour and deputy chief of the national guard.
+
+
+Article 5 - Indian Railways can help save Rs 1.28 lakh crore annually in diesel costs with its freight & cargo hauling: Ashwini Vaishnaw
+
+Extractive Text Summarization
+Input text:  Railway Minister Ashwini Vaishnaw has said that India can potentially save Rs 1.28 lakh crore annually in diesel costs by 2031 if it successfully transports an additional 1500 million tonnes of cargo through trains. Speaking at the 68th National Railways Awards, Vaishnaw stated that India's economic growth is expected to result in an additional 3000 million tonnes of cargo being moved within the country by 2031. According to the minister, Indian Railways is on track to capture half of this incremental cargo growth, resulting in a reduction of 16,000 crore litres of diesel consumption each year. This would translate to an annual savings of Rs 1.28 lakh crore for India, he was quoted as saying by ET. Despite achieving a record high of 1512 million tonnes of cargo transported during the fiscal year 2022-23, representing an increase from 1418 million tonnes in the previous year, Indian Railways currently accounts for less than 30% of India's total cargo movement. The majority of cargo is still transported by road, as per official estimates. Vaishnaw highlighted the progress being made in railway infrastructure development, including the construction of new tracks and the addition of multiple lines to existing ones. He also mentioned the introduction of over 200 new rakes in the past two years, as well as the induction of technologically advanced trains such as the Vande Bharat and Amrit Bharat. While Vande Bharat is a semi-high speed AC service, Amrit Bharat is a push-pull technology non-AC train with advanced features that is expected to be introduced in the coming days. During the event, Vaishnaw recognized the outstanding services of 100 Railway employees from various Zonal Railways, Production Units, and Railway public sector undertakings (PSUs). Regarding India's economic growth, the minister predicted that the country would rise to one of the top three global economies by 2027, up from its current ranking of fifth. Vaishnaw also emphasized the importance of shedding any remnants of a colonial mindset among senior Railway officers, which he believes still influences working methods and practices. He called for a ruthless eradication of these traces of colonial thinking to ensure a modern and efficient railway system.
+Input number of sentences in summary:  5
+
+Summary sentence score for the top 5 sentences: 
+                                            Sentence     Score
+0  Speaking at the 68th National Railways Awards,...  7.166667
+1  During the event, Vaishnaw recognized the outs...  5.166667
+2  28 lakh crore annually in diesel costs by 2031...  5.000000
+3  According to the minister, Indian Railways is ...  5.000000
+4  While Vande Bharat is a semi-high speed AC ser...  4.166667
+
+Summary: Speaking at the 68th National Railways Awards, Vaishnaw stated that India's economic growth is expected to result in an additional 3000 million tonnes of cargo being moved within the country by 2031. During the event, Vaishnaw recognized the outstanding services of 100 Railway employees from various Zonal Railways, Production Units, and Railway public sector undertakings (PSUs). 28 lakh crore annually in diesel costs by 2031 if it successfully transports an additional 1500 million tonnes of cargo through trains. According to the minister, Indian Railways is on track to capture half of this incremental cargo growth, resulting in a reduction of 16,000 crore litres of diesel consumption each year. While Vande Bharat is a semi-high speed AC service, Amrit Bharat is a push-pull technology non-AC train with advanced features that is expected to be introduced in the coming days.
