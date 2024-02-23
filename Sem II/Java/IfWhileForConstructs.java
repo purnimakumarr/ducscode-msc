@@ -9,7 +9,7 @@ public class IfWhileForConstructs {
   public static void main(String args[]) {
     Scanner scanner = new Scanner(System.in);
 
-    System.out.print("Enter current mont as integer: ");
+    System.out.print("Enter current month as integer: ");
     int month = scanner.nextInt();
 
     String season;
@@ -45,7 +45,7 @@ public class IfWhileForConstructs {
 
     System.out.println();
 
-    for(int j = 0; j < 100; j++) {
+    for(int j = 0; j < 10; j++) {
       if(j % 2 == 0) {
         System.out.println(j + " is even.");
       } else {

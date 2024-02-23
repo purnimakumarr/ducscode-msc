@@ -12,7 +12,6 @@ public class AssignmentOperators {
 
     System.out.print("Enter the first integer: ");
     int firstNumber = scanner.nextInt();
-    scanner.nextLine();
 
     System.out.print("Enter the second integer: ");
     int secondNumber = scanner.nextInt();

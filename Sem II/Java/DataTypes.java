@@ -12,6 +12,6 @@ public class DataTypes {
     System.out.println("num = " + num + " " + ((Object)num).getClass().getSimpleName());
     System.out.println("s = " + s + " " + ((Object)s).getClass().getSimpleName());
     System.out.println("floatNum = " + floatNum + " " + ((Object)floatNum).getClass().getSimpleName());
-    System.out.println("test  = " + text + " " + text.getClass().getSimpleName());
+    System.out.println("text  = " + text + " " + text.getClass().getSimpleName());
   }
 }
