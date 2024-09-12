@@ -3,7 +3,7 @@
 #include<sys/types.h>
 
 int main() {
-	int parent_pid = getpid();
+  int parent_pid = getppid();
   printf("Inside the child process...\n");
-	printf("Parent process ID is %d\n", parent_pid);
+  printf("Parent process ID is %d\n", parent_pid);
 }
